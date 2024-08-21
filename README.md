@@ -1,12 +1,12 @@
-## Embedded software engineer
+## 🧑‍💻 Embedded software development
 
 ## 👋 Summary 
-- 💻 Embedded Software Engineer at Stellantis
+- 💻 **Embedded Software Engineer** at Stellantis
 - 🎓 Bachelor's and Master's degree in Mechanical Engineering from UNICAMP
 - 📚 Ph.D. student in Mechanical Engineering at UNICAMP
 
 ## 🚀 Experience
-I have been working in Embedded Software Engineering for Electrified Powertrains in the automotive industry since 2022. My experience includes software development, software testing (MiL, SiL, HiL), software integration, static code analysis, and function development. Currently, I am employed by Stellantis as an indirect contractor.
+I have been working in **Embedded Software Engineering for Electrified Powertrains** in the automotive industry since 2022. My experience includes software development, software testing (MiL, SiL, HiL), software integration, static code analysis, and function development. Currently, I am employed by Stellantis as an indirect contractor.
 
 I have experience in research focused on control systems, structural dynamics, and multi-body dynamics. My research participation covered heavy-haul trains, lightweight structures, tensegrity structures, and robotic manipulators. Currently, I am engaged in research on tensegrity structures and train dynamics. [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-0690-8944)
 
